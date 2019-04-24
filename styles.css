@@ -1,0 +1,92 @@
+* {
+  background-color: #f9fafc;
+  font-family: sans-serif;
+}
+
+div {
+  position: relative;
+}
+
+h1 {
+  margin-top: 100px;
+  font-weight: 500;
+  padding: 10px;
+}
+
+h4 {
+  display: inline-block;
+  font-weight: 100;
+}
+
+ul, li {
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 130px;
+  margin-left: -110px;
+}
+
+ul {
+  position: relative;
+  float: right;
+  color: #69696a;
+}
+
+.btn_hire {
+  background-color: #000;
+  color: white;
+  padding: 10px;
+  border-radius: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.btn_scroll {
+  background-color: #000;
+  color: white;
+  padding: 10px;
+  border-radius: 30px;
+  margin-top: 200px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+p {
+  color: #69696a;
+  display: block;
+  text-align: left;
+  padding: 10px;
+  width: 40%;
+}
+
+.dot1 {
+  height: 100px;
+  width: 100px;
+  background-color: rgba(207, 130, 213, 0.6);
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  right: 250px;
+  top: -55px;
+}
+
+.dot2 {
+  height: 225px;
+  width: 225px;
+  background-color: rgba(247, 136, 167, 0.6);
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  right: 300px;
+  top: -75px;
+}
+
+.dot3 {
+  height: 150px;
+  width: 150px;
+  background-color: rgba(247, 193, 162, 0.7);
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  right: 225px;
+  bottom: -175px;
+}
